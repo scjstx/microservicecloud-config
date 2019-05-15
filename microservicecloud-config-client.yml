@@ -19,7 +19,7 @@ eureka:
 server: 
  prot: 8202
 spring:
- profiles: dev
+ profiles: test
  application:
   name: microservicecloud-config-client
   
